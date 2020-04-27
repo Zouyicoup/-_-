@@ -1,2 +1,2 @@
 Regular investment
-投资可视化， 
+投资可视化
