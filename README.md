@@ -1,2 +1,2 @@
-虎翼_投资可视化 
+Regular investment
 投资可视化， 
